@@ -12,7 +12,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:viter5647@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
   </a>
   &nbsp;
