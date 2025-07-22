@@ -7,7 +7,6 @@
 
 ### 
 
-
 <p align="center">
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" />
